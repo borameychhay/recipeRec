@@ -1,0 +1,14 @@
+.idea/
+.gradle/
+venv/
+
+.gradle
+/build/
+
+gradle-app.setting
+
+!gradle-wrapper.jar
+
+# Cache of project
+.gradletasknamecache
+
